@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AnimalAnatomyAlpha</string>
+    <string name="barrinha">barrinha divisoria</string>
+    <string name="logo">a logo do animals anatomy</string>
+    <string name="iconcadastro">icone para selecionar foto do cadastro</string>
+    <string name="iconanonimo">primeira variação do icone de anônimo</string>
+    <string name="titlepost">Título da publicacão</string>
+    <string name="user">"@username"</string>
+    <string name="desc">Descrição</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="confirmpassword">Confirme a Senha</string>
+    <string name="email">E-mail</string>
+    <string name="tel">Telefone</string>
+    <string name="btnsave">Salvar</string>
+    <string name="btndelete">Excluir</string>
+    <string name="btncancel">Cancelar</string>
+    <string name="login">Login</string>
+    <string name="btnlogar">Entrar</string>
+    <string name="btnregister">Cadastrar-se</string>
+    <string name="btninteresse">Tenho Interesse!</string>
+    <string name="btncomments">Comentários</string>
+    <string name="btnshare">Compartilhar</string>
+</resources>

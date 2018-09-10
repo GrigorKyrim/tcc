@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930388241132",
+    "firebase_url": "https://animal-s-anatomy.firebaseio.com",
+    "project_id": "animal-s-anatomy",
+    "storage_bucket": "animal-s-anatomy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930388241132:android:94403c43f7d58435",
+        "android_client_info": {
+          "package_name": "com.example.nop_had.animalanatomyalpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930388241132-8kvab2rqh22r12la1r7eb3uf8727rija.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nop_had.animalanatomyalpha",
+            "certificate_hash": "cf3add65ac5383f37ef3804434d647ddc4e727f5"
+          }
+        },
+        {
+          "client_id": "930388241132-5snp78u63kotvqeg8i3mh8c232n7ob73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANkT72K8GMLZObPki-5H-hLb49EJRRZl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930388241132-5snp78u63kotvqeg8i3mh8c232n7ob73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
