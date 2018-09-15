@@ -37,89 +37,114 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="25dp" />
 
-        <ImageView
-            android:id="@+id/logo"
-            android:layout_width="219dp"
-            android:layout_height="197dp"
-            android:layout_gravity="center_vertical|center_horizontal"
-            android:contentDescription="@string/logo"
-            android:src="@drawable/logosmall" />
-
-        <Space
+        <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="25dp" />
+            android:layout_height="match_parent">
 
-        <EditText
-            android:id="@+id/boxlogin"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"
-            android:background="@drawable/textbox"
-            android:ems="10"
-            android:fontFamily="@font/allerta"
-            android:hint="@string/email"
-            android:inputType="textPersonName"
-            android:padding="12dp"
-            android:textAlignment="center"
-            android:textColor="#6e5647" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="15dp" />
+                <ImageView
+                    android:id="@+id/logo"
+                    android:layout_width="match_parent"
+                    android:layout_height="197dp"
+                    android:layout_gravity="center_vertical|center_horizontal"
+                    android:contentDescription="@string/logo"
+                    android:src="@drawable/logosmall" />
 
-        <EditText
-            android:id="@+id/boxpass"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"
-            android:background="@drawable/textbox"
-            android:ems="10"
-            android:fontFamily="@font/allerta"
-            android:hint="@string/password"
-            android:inputType="textPassword"
-            android:padding="12dp"
-            android:textAlignment="center"
-            android:textColor="#6e5647" />
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp" />
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="25dp" />
+                <EditText
+                    android:id="@+id/boxlogin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/textbox"
+                    android:ems="10"
+                    android:fontFamily="@font/allerta"
+                    android:hint="@string/email"
+                    android:inputType="textPersonName"
+                    android:padding="12dp"
+                    android:textAlignment="center"
+                    android:textColor="#6e5647" />
 
-        <Button
-            android:id="@+id/btnentrar"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"
-            android:background="@drawable/buttoncustom"
-            android:fontFamily="@font/allerta"
-            android:text="@string/btnlogar"
-            android:textAllCaps="true"
-            android:textColor="#ffcfb0" />
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp" />
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="15dp" />
+                <EditText
+                    android:id="@+id/boxpass"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/textbox"
+                    android:ems="10"
+                    android:fontFamily="@font/allerta"
+                    android:hint="@string/password"
+                    android:inputType="textPassword"
+                    android:padding="12dp"
+                    android:textAlignment="center"
+                    android:textColor="#6e5647" />
 
-        <Button
-            android:id="@+id/btnregistro"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="15dp"
-            android:layout_marginRight="15dp"
-            android:background="@drawable/buttoncustomnew"
-            android:fontFamily="@font/allerta"
-            android:text="@string/btnregister"
-            android:textAllCaps="true"
-            android:textColor="#ffffff" />
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp" />
+
+                <Button
+                    android:id="@+id/btnentrar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/buttoncustom"
+                    android:fontFamily="@font/allerta"
+                    android:text="@string/btnlogar"
+                    android:textAllCaps="true"
+                    android:textColor="#ffcfb0" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp" />
+
+                <Button
+                    android:id="@+id/btnregistro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/buttoncustomnew"
+                    android:fontFamily="@font/allerta"
+                    android:text="@string/btnregister"
+                    android:textAllCaps="true"
+                    android:textColor="#ffffff" />
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp" />
+
+                <TextView
+                    android:id="@+id/txtremember"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/txtremember"
+                    android:fontFamily="@font/allerta"
+                    android:text="@string/txtremember"
+                    android:textAlignment="center" />
+            </LinearLayout>
+        </ScrollView>
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

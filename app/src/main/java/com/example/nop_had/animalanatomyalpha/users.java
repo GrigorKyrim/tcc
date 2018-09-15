@@ -1,27 +1,27 @@
 package com.example.nop_had.animalanatomyalpha;
 
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.Exclude;
 
-import java.util.HashMap;
-import java.util.Map;
+
 
 public class users {
+    private String id;
     private String login;
     private String name;
     private String pass;
     private String email;
     private String tel;
 
-    public users() {
+    public users(){}
+
+    public users(String login, String name, String pass, String email, String tel) {
+        this.login = login;
+        this.name = name;
+        this.pass = pass;
+        this.email = email;
+        this.tel = tel;
     }
 
-    public void save(){
-        DatabaseReference databaseReference = ConfigFirebase.getFirebase();
-        databaseReference.child("users").child(String.valueOf(getLogin())).setValue(this);
-    }
-
-    @Exclude
+/*@Exclude
     public Map<String, Object> toMap(){
         HashMap<String, Object> HashMapUsers = new HashMap<>();
         HashMapUsers.put("login", getLogin());
@@ -31,7 +31,8 @@ public class users {
         HashMapUsers.put("tel", getTel());
         return HashMapUsers;
 
-    }
+    }*/
+
 
     public String getLogin() {
         return login;
@@ -71,5 +72,10 @@ public class users {
 
     public void setTel(String tel) {
         this.tel = tel;
+    }
+
+    @Override
+    public String toString() {
+        return name;
     }
 }

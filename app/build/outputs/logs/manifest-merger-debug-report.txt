@@ -1,87 +1,122 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\ac0efbc62fecdd98a02e3cee5b140a6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\6274c032978f8f80c8923996c2ff6a61\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fc4368556b2a35c3378fde140d9ddf9b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\29ba43c96cf4ad7e82e1f264a29414f5\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\56cc7f55741b4823c52cb16a3cd9b469\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\417fd8ac4456d89e517fbd6c5e8e58d0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:17:1-38:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\424046172ccbe8d2e188907a7e2d62e7\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\37f16555a860d3587f20fe64daaaf1ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\fc825a8a5e2aab3c2e1b0fdab512b299\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\0ddf4b08241f94e56d507235ac7d1b1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\eeb28db7ef1acedac4932164d61b4623\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:17:1-34:12
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2242929b398fa5bcc70730c4b832f849\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:17:1-65:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\2cf965e1737039dfd1b8779a327954b9\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d314beb7e2b864f000965509fa95de0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\6c2997e19a72a46570dd3af4655c8aab\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.0.aar\8b87ea39553decfb829d258da53e41fe\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2242929b398fa5bcc70730c4b832f849\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\efc94f15a187dcc62e0e2fb52ed2cf67\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7fcceb42e83892da3d13facb3814cb87\AndroidManifest.xml:2:1-16:12
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f6f5a369967da9bdbc37e26e7b5490bd\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\77aab240802caa201cf6e97864263935\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bdbd39e565cec602471223500179306c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76be756acdf6649c053d111bcf9a605d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\f2692a94fc75f5dcd061dc19267a41f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\af23a1e355ff14eedeb958b5969b38c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\424046172ccbe8d2e188907a7e2d62e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\37f16555a860d3587f20fe64daaaf1ae\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0e0d090b254f376027fc24e25a880e7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a95362d5d22e3c51a048f4650b4ec4db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\e284af1c953c3609c856411b5461a30f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3f817c9b13255467549c0e57e735d0eb\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4372bd7b64848cb0678c8ae21a02ace6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\7d42c02a3645c61ecfafd830c340653a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b0c15bd604baedf2e4bd4d6d7c6a0465\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76be756acdf6649c053d111bcf9a605d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57d1714b4169cf620cfbc0565c7a7806\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\78da333fa9f2182f7837509ed311e8de\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\8fe141196818e68f6bb4f1c26ca744ab\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4372bd7b64848cb0678c8ae21a02ace6\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57d1714b4169cf620cfbc0565c7a7806\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-28:12
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:13:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:7:5-29:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:15:5-91:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:15:5-91:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\29ba43c96cf4ad7e82e1f264a29414f5\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\29ba43c96cf4ad7e82e1f264a29414f5\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\417fd8ac4456d89e517fbd6c5e8e58d0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\417fd8ac4456d89e517fbd6c5e8e58d0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:22:5-36:19
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:22:5-36:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:22:5-28:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:34:5-63:19
 MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:34:5-63:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\2cf965e1737039dfd1b8779a327954b9\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\2cf965e1737039dfd1b8779a327954b9\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d314beb7e2b864f000965509fa95de0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d314beb7e2b864f000965509fa95de0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\efc94f15a187dcc62e0e2fb52ed2cf67\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\efc94f15a187dcc62e0e2fb52ed2cf67\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7fcceb42e83892da3d13facb3814cb87\AndroidManifest.xml:8:5-14:19
@@ -90,10 +125,6 @@ MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\hadma.L
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f6f5a369967da9bdbc37e26e7b5490bd\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:25:5-29:19
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\78da333fa9f2182f7837509ed311e8de\AndroidManifest.xml:5:5-20
@@ -101,49 +132,59 @@ MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\8fe141196818e68f6bb4f1c26ca744ab\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\8fe141196818e68f6bb4f1c26ca744ab\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:11:9-59
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:13:9-59
 activity#com.example.nop_had.animalanatomyalpha.TelaLogin
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:12:19-44
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:14:19-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:18:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:20:9-22:57
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:22:9-24:57
 	android:resource
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:22:13-54
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:24:13-54
 	android:name
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:21:13-43
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:23:13-43
 activity#com.example.nop_had.animalanatomyalpha.tela_cadastro
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:24:9-51
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:26:9-51
 	android:name
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:24:19-48
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:26:19-48
 activity#com.example.nop_had.animalanatomyalpha.tela_index
-ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:25:9-57
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:27:9-57
 	android:name
-		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:25:19-45
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:27:19-45
+activity#com.example.nop_had.animalanatomyalpha.tela_resetpass
+ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml:28:19-49
 uses-sdk
 INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\ac0efbc62fecdd98a02e3cee5b140a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\ac0efbc62fecdd98a02e3cee5b140a6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\6274c032978f8f80c8923996c2ff6a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\customtabs-27.1.0.aar\6274c032978f8f80c8923996c2ff6a61\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fc4368556b2a35c3378fde140d9ddf9b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\fc4368556b2a35c3378fde140d9ddf9b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\29ba43c96cf4ad7e82e1f264a29414f5\AndroidManifest.xml:5:5-7:41
@@ -154,32 +195,42 @@ MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\hadma.LAPTOP-OLT
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\417fd8ac4456d89e517fbd6c5e8e58d0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\424046172ccbe8d2e188907a7e2d62e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\424046172ccbe8d2e188907a7e2d62e7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\37f16555a860d3587f20fe64daaaf1ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\37f16555a860d3587f20fe64daaaf1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\fc825a8a5e2aab3c2e1b0fdab512b299\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\fc825a8a5e2aab3c2e1b0fdab512b299\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\0ddf4b08241f94e56d507235ac7d1b1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\0ddf4b08241f94e56d507235ac7d1b1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\eeb28db7ef1acedac4932164d61b4623\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\eeb28db7ef1acedac4932164d61b4623\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2242929b398fa5bcc70730c4b832f849\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2242929b398fa5bcc70730c4b832f849\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\2cf965e1737039dfd1b8779a327954b9\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\2cf965e1737039dfd1b8779a327954b9\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d314beb7e2b864f000965509fa95de0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d314beb7e2b864f000965509fa95de0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\6c2997e19a72a46570dd3af4655c8aab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\6c2997e19a72a46570dd3af4655c8aab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.0.aar\8b87ea39553decfb829d258da53e41fe\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.0.aar\8b87ea39553decfb829d258da53e41fe\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\26511d289532d06243c37396a6b8a396\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2242929b398fa5bcc70730c4b832f849\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\2242929b398fa5bcc70730c4b832f849\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\572ace314af6a0dbd4d58abfe14780ab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\f3fe11c3ede81a2eee6776a1ccfb53f6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\efc94f15a187dcc62e0e2fb52ed2cf67\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\efc94f15a187dcc62e0e2fb52ed2cf67\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7fcceb42e83892da3d13facb3814cb87\AndroidManifest.xml:5:5-6:37
@@ -188,36 +239,44 @@ MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\hadma.L
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\f6f5a369967da9bdbc37e26e7b5490bd\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\77aab240802caa201cf6e97864263935\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\77aab240802caa201cf6e97864263935\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bdbd39e565cec602471223500179306c\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bdbd39e565cec602471223500179306c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76be756acdf6649c053d111bcf9a605d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76be756acdf6649c053d111bcf9a605d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\f2692a94fc75f5dcd061dc19267a41f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\f2692a94fc75f5dcd061dc19267a41f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\af23a1e355ff14eedeb958b5969b38c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\af23a1e355ff14eedeb958b5969b38c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\424046172ccbe8d2e188907a7e2d62e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\424046172ccbe8d2e188907a7e2d62e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\37f16555a860d3587f20fe64daaaf1ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\37f16555a860d3587f20fe64daaaf1ae\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0e0d090b254f376027fc24e25a880e7\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c0e0d090b254f376027fc24e25a880e7\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a95362d5d22e3c51a048f4650b4ec4db\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a95362d5d22e3c51a048f4650b4ec4db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\e284af1c953c3609c856411b5461a30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\e284af1c953c3609c856411b5461a30f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3f817c9b13255467549c0e57e735d0eb\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\3f817c9b13255467549c0e57e735d0eb\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4372bd7b64848cb0678c8ae21a02ace6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4372bd7b64848cb0678c8ae21a02ace6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\7d42c02a3645c61ecfafd830c340653a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\7d42c02a3645c61ecfafd830c340653a\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b0c15bd604baedf2e4bd4d6d7c6a0465\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b0c15bd604baedf2e4bd4d6d7c6a0465\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76be756acdf6649c053d111bcf9a605d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76be756acdf6649c053d111bcf9a605d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57d1714b4169cf620cfbc0565c7a7806\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57d1714b4169cf620cfbc0565c7a7806\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\3f3b179012be866841d8396924a65532\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\78da333fa9f2182f7837509ed311e8de\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\78da333fa9f2182f7837509ed311e8de\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\8fe141196818e68f6bb4f1c26ca744ab\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\8fe141196818e68f6bb4f1c26ca744ab\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4372bd7b64848cb0678c8ae21a02ace6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4372bd7b64848cb0678c8ae21a02ace6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57d1714b4169cf620cfbc0565c7a7806\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\57d1714b4169cf620cfbc0565c7a7806\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
@@ -226,6 +285,168 @@ INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidMan
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\hadma.LAPTOP-OLTMTKGJ\Desktop\tcc\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\e4b2a897624fca97bfccdd9d379ed0b9\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.idp.SingleSignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:28:9-32:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:31:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:29:13-76
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:33:9-37:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:36:13-72
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:37:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:34:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:38:9-42:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:41:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:42:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:39:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:43:9-47:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:46:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:47:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:44:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:48:9-52:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:51:13-70
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:52:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:49:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:53:9-57:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:56:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:54:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:58:9-61:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:61:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:59:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:62:9-66:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:65:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:66:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:64:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:63:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:67:9-71:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:70:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:69:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:68:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:72:9-84:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:74:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:73:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:76:13-83:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:77:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:79:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:80:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:80:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:82:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:82:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:86:9-90:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:88:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:89:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:90:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.3.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.3.1.aar\0ba2bdbc8e43870871ee3a20e69c3d16\AndroidManifest.xml:87:13-79
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:23:9-29:75
 	android:excludeFromRecents
@@ -254,26 +475,16 @@ ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTM
 		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:34:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\675d38d9c0d8582137fee26c33cbd1d6\AndroidManifest.xml:33:17-109
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:23:5-67
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:22:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\8bc23e999d42989650b847d3dd9151d6\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:23:22-76
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\5534e960628bf77f5786d5bb4d38adaa\AndroidManifest.xml:24:13-83
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\aed02f7a8c2dc12a239aad95ccfb23dc\AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:25:5-68
@@ -340,6 +551,24 @@ ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP
 		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\ce8dabf076ce8e40aa74838263050f5b\AndroidManifest.xml:49:13-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\3c92928abd99cc75927e99ec4247cb28\AndroidManifest.xml:34:13-89
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\9d7199314c7531c8a58dd8d65455acea\AndroidManifest.xml:26:5-82
 	android:name
@@ -426,17 +655,3 @@ ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\hadma.LAPTOP-OL
 		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7fcceb42e83892da3d13facb3814cb87\AndroidManifest.xml:13:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\7fcceb42e83892da3d13facb3814cb87\AndroidManifest.xml:10:13-77
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\a80aef4654c0d707277f9bc36d6e1dc3\AndroidManifest.xml:24:13-58
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3bc370dc74765f772b1cc64fe884077b\AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hadma.LAPTOP-OLTMTKGJ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\d8cc8a2453fe654b1c6481c31979b603\AndroidManifest.xml:27:13-51

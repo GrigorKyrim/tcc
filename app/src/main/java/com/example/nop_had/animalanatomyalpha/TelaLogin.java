@@ -7,12 +7,15 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+
+import org.w3c.dom.Text;
 
 public class TelaLogin extends AppCompatActivity {
 
@@ -22,6 +25,8 @@ public class TelaLogin extends AppCompatActivity {
     private EditText boxpass;
     private FirebaseAuth firebaseAuth;
     private users users;
+    private TextView txtremember;
+    private FirebaseAuth.AuthStateListener authStateListener;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,6 +40,7 @@ public class TelaLogin extends AppCompatActivity {
                 btnregistroActivity();
             }
         });
+        clicks();
 
 
         btnEntrar.setOnClickListener(new View.OnClickListener() {
@@ -50,6 +56,7 @@ public class TelaLogin extends AppCompatActivity {
         btnCadastro = (Button) findViewById(R.id.btnregistro);
         boxlogin = (EditText) findViewById (R.id.boxlogin);
         boxpass = (EditText) findViewById (R.id.boxpass);
+        txtremember = (TextView) findViewById (R.id.txtremember);
     }
 
     private void btnentrarActivity() {
@@ -65,7 +72,7 @@ public class TelaLogin extends AppCompatActivity {
     }
 
     private void validar(){
-        firebaseAuth = ConfigFirebase.getFirebaseAutenticacao();
+        firebaseAuth = ConfigFirebase.getFirebaseAuth();
         firebaseAuth.signInWithEmailAndPassword(users.getEmail(), users.getPass()).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
@@ -84,5 +91,13 @@ public class TelaLogin extends AppCompatActivity {
         startActivity(new Intent(TelaLogin.this, tela_cadastro.class));
     }
 
-
+    private void clicks() {
+        txtremember.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(TelaLogin.this,tela_resetpass.class);
+                startActivity(i);
+            }
+        });
+    }
 }

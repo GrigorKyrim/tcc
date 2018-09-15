@@ -4,17 +4,7 @@
             "outputFile": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\Desktop\\tcc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fc4368556b2a35c3378fde140d9ddf9b\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\3bc370dc74765f772b1cc64fe884077b\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\e284af1c953c3609c856411b5461a30f\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fc4368556b2a35c3378fde140d9ddf9b\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]

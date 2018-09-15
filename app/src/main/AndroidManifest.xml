@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.nop_had.animalanatomyalpha">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -23,6 +25,7 @@
 
         <activity android:name=".tela_cadastro" />
         <activity android:name=".tela_index"></activity>
+        <activity android:name=".tela_resetpass"></activity>
     </application>
 
 </manifest>

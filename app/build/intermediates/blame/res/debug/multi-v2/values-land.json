@@ -4,6 +4,25 @@
             "outputFile": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\Desktop\\tcc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\ac0efbc62fecdd98a02e3cee5b140a6a\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
                     "source": "C:\\Users\\hadma.LAPTOP-OLTMTKGJ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\fc4368556b2a35c3378fde140d9ddf9b\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",

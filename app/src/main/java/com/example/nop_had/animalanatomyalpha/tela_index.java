@@ -4,8 +4,13 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
+
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 import java.util.ArrayList;
+
 
 public class tela_index extends AppCompatActivity {
 
@@ -17,6 +22,26 @@ public class tela_index extends AppCompatActivity {
         ListView timeline = (ListView) findViewById(R.id.timelinelist);
         ArrayAdapter adapter = new timeline_adapter(this, adicionartimeline());
         timeline.setAdapter(adapter);
+    }
+
+    private FirebaseAuth firebaseAuth;
+    private FirebaseUser firebaseUser;
+
+    @Override
+    protected void onStart(){
+        super.onStart();
+        firebaseAuth = ConfigFirebase.getFirebaseAuth();
+        firebaseUser = ConfigFirebase.getFirebaseUser();
+        uservalid();
+    }
+
+    private void uservalid() {
+        if (firebaseUser == null){
+            finish();
+        }
+        else{
+            Toast.makeText(tela_index.this, "Seja Bem-Vindo(a)"+firebaseUser.getUid(), Toast.LENGTH_LONG).show();
+        }
     }
 
     private ArrayList<timeline> adicionartimeline(){

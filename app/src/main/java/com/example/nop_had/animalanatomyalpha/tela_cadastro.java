@@ -12,6 +12,7 @@ import android.widget.Toast;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
@@ -19,6 +20,11 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseAuthUserCollisionException;
 import com.google.firebase.auth.FirebaseAuthWeakPasswordException;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.ChildEventListener;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 public class tela_cadastro extends AppCompatActivity {
 
@@ -33,6 +39,9 @@ public class tela_cadastro extends AppCompatActivity {
     private EditText boxtel;
     private users users;
     private FirebaseAuth firebaseAuth;
+    private FirebaseUser firebaseUser;
+    private FirebaseDatabase firebaseDatabase;
+    private DatabaseReference databaseReference;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,13 +53,9 @@ public class tela_cadastro extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 if (boxpassword.getText().toString().equals(boxpasswordconfirm.getText().toString())) {
-                    users = new users();
-                    users.setName(boxname.getText().toString());
-                    users.setPass(boxpassword.getText().toString());
-                    users.setLogin(boxlogin.getText().toString());
-                    users.setEmail(boxemail.getText().toString());
-                    users.setTel(boxtel.getText().toString());
-                    cadastraruser();
+                    String email = boxemail.getText().toString().trim();
+                    String pass = boxpassword.getText().toString().trim();
+                    cadastraruser(email, pass);
                 }
                 else{
                     Toast.makeText(tela_cadastro.this, "As senhas não correspondem, tente novamente", Toast.LENGTH_LONG).show();
@@ -64,28 +69,28 @@ public class tela_cadastro extends AppCompatActivity {
                 btncancelActivity();
             }
         });
+
+        btnDelete.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                boxname.setText("");
+                boxlogin.setText("");
+                boxpassword.setText("");
+                boxpasswordconfirm.setText("");
+                boxemail.setText("");
+                boxtel.setText("");
+            }
+        });
     }
 
-    private void cadastraruser(){
-        firebaseAuth = ConfigFirebase.getFirebaseAutenticacao();
-        firebaseAuth.createUserWithEmailAndPassword(
-                users.getEmail(),
-                users.getPass()
-        ).addOnCompleteListener(tela_cadastro.this, new OnCompleteListener<AuthResult>() {
+    private void cadastraruser(String email, String pass) {
+        firebaseAuth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener(tela_cadastro.this, new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
-                if (task.isSuccessful()){
+                if (task.isSuccessful()) {
                     Toast.makeText(tela_cadastro.this, "Usuário Cadastrado com sucesso", Toast.LENGTH_LONG).show();
-
-                    String IdUserLogado = base64_custom.codificar64(users.getEmail());
-                    FirebaseUser usuariofirebase = task.getResult().getUser();
-                    users.setLogin(IdUserLogado);
-                    users.save();
-                    Preferences preferences = new Preferences(tela_cadastro.this);
-                    preferences.saveUserPreferences(IdUserLogado, users.getName());
                     openlogin();
-                }
-                else{
+            }else{
                     String error = "";
                     try{
                         throw task.getException();
@@ -126,4 +131,11 @@ public class tela_cadastro extends AppCompatActivity {
     private void btncancelActivity() {
         startActivity(new Intent(tela_cadastro.this, TelaLogin.class));
     }
+
+    @Override
+    protected void onStart(){
+        super.onStart();
+        firebaseAuth = ConfigFirebase.getFirebaseAuth();
+    }
+
 }

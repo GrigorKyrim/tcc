@@ -21,4 +21,6 @@
     <string name="btninteresse">Tenho Interesse!</string>
     <string name="btncomments">Comentários</string>
     <string name="btnshare">Compartilhar</string>
+    <string name="txtremember">Esqueceu sua senha?</string>
+    <string name="btnalterar">Alterar</string>
 </resources>
